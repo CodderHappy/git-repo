@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    height: 100vh;              /* full screen height */
+    display: flex;
+    justify-content: center;    /* horizontal center */
+    align-items: center;        /* vertical center */
+    background-color: #3498db;  /* background color */
+    color: white;               /* text color */
+    font-size: 40px;
+}
+h1 {
+    font-family: Arial, sans-serif;
+}
